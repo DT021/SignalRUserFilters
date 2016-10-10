@@ -1,0 +1,16 @@
+﻿Dynamitey
+FSharp.Core
+FSharp.Interop.Dynamic
+Microsoft.AspNet.SignalR
+Microsoft.AspNet.SignalR.Core
+Microsoft.AspNet.SignalR.Sample
+Microsoft.AspNet.SignalR.SystemWeb
+Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+Microsoft.Net.Compilers
+Microsoft.Owin
+Microsoft.Owin.Host.SystemWeb
+Microsoft.Owin.Security
+Owin
+System.Reactive.Core
+System.Reactive.Interfaces
+System.Reactive.Linq
